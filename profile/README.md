@@ -23,7 +23,7 @@ We provide small entrepreneurs with their first professional website, developed 
 ### 🔹 Educational & Collaborative Tools
 Foo Talent Group integrates modern tools to enhance collaborative learning:
 
-- **GitHub for Education** – Used for project collaboration, version control, and portfolio development.  
+- **GitHub** – Used as a core platform for teamwork, version control, and real-world project development in our learning programs.   
 - **Figma for Education** – Enables students to design user interfaces collaboratively, reinforcing accessible and practical tech education.
 
 ---
