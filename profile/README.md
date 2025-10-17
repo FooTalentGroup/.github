@@ -14,19 +14,11 @@ Nuestra misión es brindar oportunidades a estudiantes y egresados para que adqu
 ### 🔹 **Programas de Formación y Práctica**
 Nuestros programas están diseñados para que los participantes adquieran experiencia real mientras trabajan en proyectos tecnológicos.
 
-- **Smart Projects**: Programa de 6 semanas en el que los participantes desarrollan proyectos completos en equipo, con revisión por expertos y certificación.  
+- **Smart Projects**: Programa de 8 semanas en el que los participantes desarrollan proyectos completos en equipo, con revisión por expertos y certificación.  
 - **Tech Projects**: Programa exclusivo para programadores que desean mejorar sus habilidades en desarrollo frontend, backend y fullstack.
 
 ### 🔹 **Real Projects for Entrepreneurs / Proyectos Reales para Emprendedores**
 Brindamos a pequeños emprendedores su primer sitio web gratuito, desarrollado por nuestros participantes dentro de los programas de formación.
-
-### 🔹 **Servicios Empresariales / Business Services**
-Ofrecemos soluciones digitales a empresas en distintas áreas:
-- **Desarrollo Web y Móvil / Web & Mobile Development**
-- **Diseño UX/UI / UX/UI Design**
-- **Marketing Digital / Digital Marketing**
-- **Investigación y Análisis Funcional / Business Analysis**
-- **Testing QA y Control de Calidad / QA Testing & Quality Control**
 
 ---
 
