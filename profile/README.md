@@ -36,7 +36,7 @@ We promote open learning by encouraging our participants to share knowledge, con
 ## 📢 Join Foo Talent Group / ¡Únete a Foo Talent Group!
 If you are a student, graduate, or professional seeking real experience and new opportunities — this is your community.
 
-🌐 [www.footalentgroup.com](https://www.footalentgroup.com)  
+🌐 [footalentgroup.com](https://footalentgroup.com)  
 📧 hr@footalentgroup.com  
 🔗 [LinkedIn](https://www.linkedin.com/company/foo-talent-group)
 
