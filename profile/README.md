@@ -32,8 +32,8 @@ We are also part of **Figma for Education**, reinforcing our commitment to acces
 ## 📢 ¡Únete a Foo Talent Group!
 Si eres estudiante, egresado o profesional en busca de experiencia y oportunidades, esta es tu comunidad.  
 
-🌐 [www.footalentgroup.com](https://www.footalentgroup.com)  
-📧 contact@footalentgroup.com  
-🔗 [LinkedIn](https://www.linkedin.com/company/foo-talent-group)
+🌐 [www.footalentgroup.com](https://footalentgroup.com)  
+📧 hr@footalentgroup.com  
+🔗 [LinkedIn](https://www.linkedin.com/company/footalentgroup)
 
 
