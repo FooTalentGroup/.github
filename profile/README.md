@@ -1,39 +1,43 @@
 # Foo Talent Group
 
 ## 🎓 About Us / ¿Quiénes somos?
-**Foo Talent Group** is a technology education organization that empowers new talent through training programs, mentorship, and real-world projects.  
-We help students and emerging professionals gain hands-on experience and connect with companies looking for new tech talent.  
+**Foo Talent Group** is a technology education organization that empowers new talent through hands-on learning, mentorship, and real-world projects.  
+We help students and emerging professionals gain practical experience and connect with companies seeking new tech talent.
 
-**Foo Talent Group** es una organización que impulsa el crecimiento de nuevos talentos en tecnología a través de programas de formación, mentorías y proyectos prácticos.  
+**Foo Talent Group** es una organización educativa que impulsa el crecimiento de nuevos talentos en tecnología a través de programas de formación, mentorías y proyectos prácticos.  
 Nuestra misión es brindar oportunidades a estudiantes y egresados para que adquieran experiencia real y conecten con empresas en busca de talento emergente.
 
 ---
 
 ## 🎯 What We Offer / ¿Qué ofrecemos?
 
-### 🔹 **Programas de Formación y Práctica**
-Nuestros programas están diseñados para que los participantes adquieran experiencia real mientras trabajan en proyectos tecnológicos.
+### 🔹 Educational Training & Practice Programs / Programas de Formación y Práctica
+Our programs are designed to help participants gain real-world experience while working on technology projects.
 
-- **Smart Projects**: Programa de 8 semanas en el que los participantes desarrollan proyectos completos en equipo, con revisión por expertos y certificación.  
-- **Tech Projects**: Programa exclusivo para programadores que desean mejorar sus habilidades en desarrollo frontend, backend y fullstack.
+- **Smart Projects** – An 8-week program where participants develop complete projects in teams, guided by mentors, and receive certification.  
+- **Tech Projects** – An advanced track for developers looking to strengthen their skills in frontend, backend, or full-stack development.
 
-### 🔹 **Real Projects for Entrepreneurs / Proyectos Reales para Emprendedores**
-Brindamos a pequeños emprendedores su primer sitio web gratuito, desarrollado por nuestros participantes dentro de los programas de formación.
+### 🔹 Real Projects for Entrepreneurs / Proyectos Reales para Emprendedores
+We provide small entrepreneurs with their first professional website, developed by participants as part of their learning process.
+
+### 🔹 Educational & Collaborative Tools
+Foo Talent Group integrates modern tools to enhance collaborative learning:
+
+- **GitHub for Education** – Used for project collaboration, version control, and portfolio development.  
+- **Figma for Education** – Enables students to design user interfaces collaboratively, reinforcing accessible and practical tech education.
 
 ---
 
-## 💻 GitHub for Education
-Foo Talent Group uses **GitHub** as part of its learning ecosystem.  
-Our students and instructors collaborate through repositories, version control, and project-based learning.  
-We are also part of **Figma for Education**, reinforcing our commitment to accessible and practical tech education.
+## 🌍 Community Impact
+We promote open learning by encouraging our participants to share knowledge, contribute to open-source projects, and grow through community-driven education.
 
 ---
 
-## 📢 ¡Únete a Foo Talent Group!
-Si eres estudiante, egresado o profesional en busca de experiencia y oportunidades, esta es tu comunidad.  
+## 📢 Join Foo Talent Group / ¡Únete a Foo Talent Group!
+If you are a student, graduate, or professional seeking real experience and new opportunities — this is your community.
 
-🌐 [www.footalentgroup.com](https://footalentgroup.com)  
+🌐 [www.footalentgroup.com](https://www.footalentgroup.com)  
 📧 hr@footalentgroup.com  
-🔗 [LinkedIn](https://www.linkedin.com/company/footalentgroup)
+🔗 [LinkedIn](https://www.linkedin.com/company/foo-talent-group)
 
 
